@@ -1,4 +1,4 @@
-# mixedMessages: A CodeCademy Portfolio Project
+# Mixed Messages: A CodeCademy Portfolio Project
 ## About Project
 For this project, I will build a message generator program. Every time a user runs a program, they should get a new, randomized output.
 ### Objectives:
